@@ -1,0 +1,3 @@
+D:/UNIAT/Quinto Semestre/sim_fisicas/hola_mundoII/cmake-build-debug/CMakeFiles/hola_mundoII.dir
+D:/UNIAT/Quinto Semestre/sim_fisicas/hola_mundoII/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/UNIAT/Quinto Semestre/sim_fisicas/hola_mundoII/cmake-build-debug/CMakeFiles/rebuild_cache.dir
