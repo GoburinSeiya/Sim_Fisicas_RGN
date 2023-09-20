@@ -1,4 +1,4 @@
-# Install script for directory: D:/UNIAT/Quinto Semestre/sim_fisicas/hola_mundoII
+# Install script for directory: D:/UNIAT/Quinto Semestre/sim_fisicas/sim_fisicasGIT/LUNA/Sim_Fisicas_RGN/LUNA/hola_mundoII
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/UNIAT/Quinto Semestre/sim_fisicas/hola_mundoII/cmake-build-debug-visual-studio/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/UNIAT/Quinto Semestre/sim_fisicas/sim_fisicasGIT/LUNA/Sim_Fisicas_RGN/LUNA/hola_mundoII/cmake-build-debug-visual-studio/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

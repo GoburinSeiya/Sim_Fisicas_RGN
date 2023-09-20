@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/UNIAT/Quinto Semestre/sim_fisicas/hola_mundoII/cmake-build-debug-visual-studio",
-		"source" : "D:/UNIAT/Quinto Semestre/sim_fisicas/hola_mundoII"
+		"build" : "D:/UNIAT/Quinto Semestre/sim_fisicas/sim_fisicasGIT/LUNA/Sim_Fisicas_RGN/LUNA/hola_mundoII/cmake-build-debug-visual-studio",
+		"source" : "D:/UNIAT/Quinto Semestre/sim_fisicas/sim_fisicasGIT/LUNA/Sim_Fisicas_RGN/LUNA/hola_mundoII"
 	},
 	"version" : 
 	{
