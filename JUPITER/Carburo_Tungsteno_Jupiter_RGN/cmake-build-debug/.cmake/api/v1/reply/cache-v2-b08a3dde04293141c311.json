@@ -39,7 +39,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/UNIAT/Quinto Semestre/sim_fisicas/sim_fisicasGIT/LUNA/Sim_Fisicas_RGN/LUNA/hola_mundoII/cmake-build-debug-visual-studio"
+			"value" : "d:/UNIAT/Quinto Semestre/sim_fisicas/sim_fisicasGIT/LUNA/Sim_Fisicas_RGN/JUPITER/Carburo_Tungsteno_Jupiter_RGN/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/UNIAT/Quinto Semestre/sim_fisicas/sim_fisicasGIT/LUNA/Sim_Fisicas_RGN/LUNA/hola_mundoII/cmake-build-debug-visual-studio/CMakeFiles/pkgRedirects"
+			"value" : "D:/UNIAT/Quinto Semestre/sim_fisicas/sim_fisicasGIT/LUNA/Sim_Fisicas_RGN/JUPITER/Carburo_Tungsteno_Jupiter_RGN/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/UNIAT/Quinto Semestre/sim_fisicas/sim_fisicasGIT/LUNA/Sim_Fisicas_RGN/LUNA/hola_mundoII"
+			"value" : "D:/UNIAT/Quinto Semestre/sim_fisicas/sim_fisicasGIT/LUNA/Sim_Fisicas_RGN/JUPITER/Carburo_Tungsteno_Jupiter_RGN"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -551,7 +551,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/hola_mundoII"
+			"value" : "C:/Program Files (x86)/Carburo_Tungsteno_Jupiter_RGN"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -735,7 +735,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "hola_mundoII"
+			"value" : "Carburo_Tungsteno_Jupiter_RGN"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1094,6 +1094,42 @@
 			"value" : "FALSE"
 		},
 		{
+			"name" : "Carburo_Tungsteno_Jupiter_RGN_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "D:/UNIAT/Quinto Semestre/sim_fisicas/sim_fisicasGIT/LUNA/Sim_Fisicas_RGN/JUPITER/Carburo_Tungsteno_Jupiter_RGN/cmake-build-debug"
+		},
+		{
+			"name" : "Carburo_Tungsteno_Jupiter_RGN_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "Carburo_Tungsteno_Jupiter_RGN_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "D:/UNIAT/Quinto Semestre/sim_fisicas/sim_fisicasGIT/LUNA/Sim_Fisicas_RGN/JUPITER/Carburo_Tungsteno_Jupiter_RGN"
+		},
+		{
 			"name" : "VCPKG_APPLOCAL_DEPS",
 			"properties" : 
 			[
@@ -1336,42 +1372,6 @@
 			],
 			"type" : "PATH",
 			"value" : "C:/Users/Renato/.vcpkg-clion/vcpkg/installed/x64-windows/share/box2d"
-		},
-		{
-			"name" : "hola_mundoII_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "D:/UNIAT/Quinto Semestre/sim_fisicas/sim_fisicasGIT/LUNA/Sim_Fisicas_RGN/LUNA/hola_mundoII/cmake-build-debug-visual-studio"
-		},
-		{
-			"name" : "hola_mundoII_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "hola_mundoII_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "D:/UNIAT/Quinto Semestre/sim_fisicas/sim_fisicasGIT/LUNA/Sim_Fisicas_RGN/LUNA/hola_mundoII"
 		}
 	],
 	"kind" : "cache",

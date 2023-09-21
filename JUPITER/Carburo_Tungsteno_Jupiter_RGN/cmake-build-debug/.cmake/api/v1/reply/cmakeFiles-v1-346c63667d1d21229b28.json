@@ -25,7 +25,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeSystem.cmake"
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake"
 		},
 		{
 			"isExternal" : true,
@@ -283,7 +283,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeCCompiler.cmake"
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -522,7 +522,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake"
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -596,7 +596,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeRCCompiler.cmake"
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -670,7 +670,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeCCompiler.cmake"
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -769,7 +769,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake"
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake"
 		},
 		{
 			"isExternal" : true,
@@ -791,8 +791,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "D:/UNIAT/Quinto Semestre/sim_fisicas/sim_fisicasGIT/LUNA/Sim_Fisicas_RGN/LUNA/hola_mundoII/cmake-build-debug-visual-studio",
-		"source" : "D:/UNIAT/Quinto Semestre/sim_fisicas/sim_fisicasGIT/LUNA/Sim_Fisicas_RGN/LUNA/hola_mundoII"
+		"build" : "D:/UNIAT/Quinto Semestre/sim_fisicas/sim_fisicasGIT/LUNA/Sim_Fisicas_RGN/JUPITER/Carburo_Tungsteno_Jupiter_RGN/cmake-build-debug",
+		"source" : "D:/UNIAT/Quinto Semestre/sim_fisicas/sim_fisicasGIT/LUNA/Sim_Fisicas_RGN/JUPITER/Carburo_Tungsteno_Jupiter_RGN"
 	},
 	"version" : 
 	{

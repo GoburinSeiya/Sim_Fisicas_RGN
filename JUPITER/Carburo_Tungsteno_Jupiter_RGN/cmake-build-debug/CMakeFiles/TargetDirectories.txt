@@ -1,0 +1,3 @@
+D:/UNIAT/Quinto Semestre/sim_fisicas/sim_fisicasGIT/LUNA/Sim_Fisicas_RGN/JUPITER/Carburo_Tungsteno_Jupiter_RGN/cmake-build-debug/CMakeFiles/Carburo_Tungsteno_Jupiter_RGN.dir
+D:/UNIAT/Quinto Semestre/sim_fisicas/sim_fisicasGIT/LUNA/Sim_Fisicas_RGN/JUPITER/Carburo_Tungsteno_Jupiter_RGN/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/UNIAT/Quinto Semestre/sim_fisicas/sim_fisicasGIT/LUNA/Sim_Fisicas_RGN/JUPITER/Carburo_Tungsteno_Jupiter_RGN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
