@@ -2,8 +2,8 @@
 #include <Box2d/Box2d.h>
 
 int main() {
-    //Creacion del mundo y de la gravedad, pero en la luna
-    b2Vec2 gravity(0.0f, -24.79f); // La gravedad es mayor a la tierra
+    //Creacion del mundo y de la gravedad
+    b2Vec2 gravity(0.0f, -9.81f);
     b2World world(gravity);
 
     //Creacion de  un cuerpo o elemento del mundo y sus caracteristicas
@@ -31,8 +31,8 @@ int main() {
 
     b2FixtureDef fixtureDef;
     fixtureDef.shape = &dynamicBox;
-    fixtureDef.density = 15600.0f; //densidad del carburo de tungsteno
-    fixtureDef.friction = 0.9f; //La atmosfera es
+    fixtureDef.density = 1.0f; //densidad del objeto
+    fixtureDef.friction = 0.3f; // coeficiente de fricción 
 
     body ->CreateFixture(&fixtureDef);
 
