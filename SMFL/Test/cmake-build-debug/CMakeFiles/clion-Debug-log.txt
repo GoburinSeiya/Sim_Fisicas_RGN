@@ -1,0 +1,5 @@
+C:\Users\Renato\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Renato/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -DCMAKE_TOOLCHAIN_FILE=C:\Users\Renato\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S "D:\UNIAT\Quinto Semestre\sim_fisicas\sim_fisicasGIT\LUNA\Sim_Fisicas_RGN\SMFL\Test" -B "D:\UNIAT\Quinto Semestre\sim_fisicas\sim_fisicasGIT\LUNA\Sim_Fisicas_RGN\SMFL\Test\cmake-build-debug"
+-- Found SFML 2.6.0 in C:/Users/Renato/.vcpkg-clion/vcpkg/installed/x64-windows/share/sfml
+-- Configuring done (2.3s)
+-- Generating done (0.1s)
+-- Build files have been written to: D:/UNIAT/Quinto Semestre/sim_fisicas/sim_fisicasGIT/LUNA/Sim_Fisicas_RGN/SMFL/Test/cmake-build-debug

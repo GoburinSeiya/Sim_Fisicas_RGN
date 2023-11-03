@@ -39,6 +39,8 @@ int main() {
     float vy = speed * std::sin(angle * M_PI / 180.0f);
 
     body->SetLinearVelocity(b2Vec2(vx, vy));
+    body->SetLinearDamping(0.5f);
+
 
 // Simulate the world
     float timeStep = 1.0f / 60.0f;
